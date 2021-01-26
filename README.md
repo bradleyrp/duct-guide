@@ -1,6 +1,6 @@
 # Duct User Guide
 
-This brief guide will explain how to use `duct` to annotate your data. The concept and objective of the project are [described in supplemental notes](https://utz.icm.jhu.edu/duct/docs).
+This brief guide will explain how to use `duct` to annotate your data. The concept and objective of the project are [described in supplemental notes on t he site itself](https://utz.icm.jhu.edu/duct/docs). The site is currently hosted at [`https://utz.icm.jhu.edu/duct`](https://utz.icm.jhu.edu/duct).
 
 ## 1. Login
 
