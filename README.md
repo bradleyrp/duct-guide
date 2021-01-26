@@ -92,6 +92,10 @@ You can review your annotations by clicking the `Data` menu and selecting the `D
 
 This is the final product for our application: the list of `DataClass` objects will tell the admins exactly which data is the most important so we can safeguard it in the future.
 
+## Alternatives to the treemap: add paths manually
+
+*What if you don't like using the treemap or it has too many bugs?* In that case, select the `DataClass` item from the `Data` menu and use the `create` button to add important directories to the database. You should select a `xanadu` or `baymax` scan with `all-users` in the title, include your username, and use the **relative path** to the data. For example if your data are located at `/xanadu/data/my/data/is/here` then you should enter `my/data/is/here`.
+
 ## Questions and future development
 
 Feedback and feature ideas are welcome. If you already have a large batch of directories to back up, please let me know and I will add a batch annotation feature. If you have any difficulty using this program, please get in touch.
